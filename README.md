@@ -1,6 +1,6 @@
-# Sports Image Classification
+# Weight initialization based-rectified linear unit activation function to improve the performance of a convolutional neural network model
 
-This repository contains a deep learning (DL)-based artificial intelligence (AI) image classification model training to classify different sports types. The AI model used for the classification task is RexNet ([paper](https://arxiv.org/pdf/2007.00992.pdf) and [code](https://github.com/clovaai/rexnet)) and the dataset for training is [Fruits 100 Dataset](https://www.kaggle.com/datasets/sidharkal/sports-image-classification). The project in [Kaggle](https://www.kaggle.com/) can be found [here](https://www.kaggle.com/code/killa92/sports-classification-pytorch-98-accuracy). The models can be trained using two different frameworks ([PyTorch](https://pytorch.org/) and [PyTorch Lightning](https://lightning.ai/)).
+This repository contains an official code implementation of the [Weight initialization based-rectified linear unit activation function to improve the performance of a convolutional neural network model manuscript](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6143) using two different frameworks ([PyTorch](https://pytorch.org/) and [PyTorch Lightning](https://lightning.ai/)).
 
 # Manual on how to use the repo:
 
